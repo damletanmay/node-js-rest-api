@@ -6,7 +6,7 @@ Node-Js-Rest-Api Is an RESTful API which has certain features like adding-viewin
 It can be used for a system across any platform. It doesn't contain any pages or UI because it's just an API.
 
 
-There are 3 Models in this app.
+There are 2 Models in this app.
 
 1. Products - To store all products.
 2. Cart - To store products which user selects.
